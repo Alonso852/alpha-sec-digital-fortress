@@ -3,25 +3,26 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const team = [
   {
-    name: "Alexandre Durand",
+    name: "Mohammed",
     role: "CEO & Co-fondateur",
-    bio: "Expert en cybersécurité avec 10 ans d'expérience, ancien pentester chez une grande société de conseil.",
+    bio: "Expert en cybersécurité, ancien SOC Analyste chez une grande société de conseil.",
   },
   {
-    name: "Sophie Lambert",
+    name: "Ouardi Marwa",
     role: "CTO & Co-fondatrice",
     bio: "Spécialiste en architecture de sécurité, diplômée de l'ANSSI, passionnée par l'innovation technique.",
   },
   {
-    name: "Thomas Martin",
+    name: "Soulaimane",
     role: "Lead Security Analyst",
     bio: "Hacker éthique certifié OSCP, expert en tests d'intrusion et réponse à incident.",
   },
   {
-    name: "Emma Bernard",
+    name: "Abdelouahab",
     role: "Responsable Formation",
     bio: "Former en cybersécurité avec une passion pour la transmission des connaissances et la pédagogie.",
   },
+  
 ];
 
 const values = [
